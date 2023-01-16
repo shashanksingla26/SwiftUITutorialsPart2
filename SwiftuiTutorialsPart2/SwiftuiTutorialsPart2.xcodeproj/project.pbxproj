@@ -12,6 +12,7 @@
 		CE8AD3C1296321DC00EDD0A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE8AD3C0296321DC00EDD0A6 /* Assets.xcassets */; };
 		CE8AD3C4296321DC00EDD0A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE8AD3C3296321DC00EDD0A6 /* Preview Assets.xcassets */; };
 		CE8AD3CB2963223A00EDD0A6 /* GaugeTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8AD3CA2963223A00EDD0A6 /* GaugeTutorial.swift */; };
+		CEF4B319297562AA009353F5 /* EnumMenuPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF4B318297562AA009353F5 /* EnumMenuPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		CE8AD3C0296321DC00EDD0A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE8AD3C3296321DC00EDD0A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE8AD3CA2963223A00EDD0A6 /* GaugeTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GaugeTutorial.swift; sourceTree = "<group>"; };
+		CEF4B318297562AA009353F5 /* EnumMenuPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumMenuPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				CE8AD3BC296321DA00EDD0A6 /* SwiftuiTutorialsPart2App.swift */,
 				CE8AD3BE296321DA00EDD0A6 /* ContentView.swift */,
 				CE8AD3CA2963223A00EDD0A6 /* GaugeTutorial.swift */,
+				CEF4B318297562AA009353F5 /* EnumMenuPicker.swift */,
 				CE8AD3C0296321DC00EDD0A6 /* Assets.xcassets */,
 				CE8AD3C2296321DC00EDD0A6 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				CE8AD3CB2963223A00EDD0A6 /* GaugeTutorial.swift in Sources */,
 				CE8AD3BF296321DA00EDD0A6 /* ContentView.swift in Sources */,
 				CE8AD3BD296321DA00EDD0A6 /* SwiftuiTutorialsPart2App.swift in Sources */,
+				CEF4B319297562AA009353F5 /* EnumMenuPicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +283,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +313,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

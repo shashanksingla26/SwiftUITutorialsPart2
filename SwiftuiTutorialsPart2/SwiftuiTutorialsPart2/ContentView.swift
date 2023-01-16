@@ -15,6 +15,10 @@ struct ContentView: View {
                     NavigationLink("1. GaugeTutorial", destination: GaugeTutorial())
                     Spacer()
                 }
+                HStack {
+                    NavigationLink("2. Menu Picker", destination: GaugeTutorial())
+                    Spacer()
+                }
                 Spacer()
             }
             .padding()

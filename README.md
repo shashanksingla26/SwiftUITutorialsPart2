@@ -5,3 +5,10 @@ New Tutorials on SwiftUI
 Sample Code how to use Gauge in SwiftUI Project
 
 ![Guage](Guage.png)
+
+# 1. Menu Picker with checkmark
+
+![EnumMenuPicker](EnumMenuPicker.png)
+
+
+EnumMenuPicker 
